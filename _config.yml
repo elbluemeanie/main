@@ -13,11 +13,12 @@ email: brett@riverstonehomerepair.com
 facebook_username:
 twitter_username:
 github_username:
-address: S University Blvd and Kirkpatrick Way
+address: 
+  - line: S University Blvd and Kirkpatrick Way
   - line: Missouri City, TX 77479
   # Feel free to add more lines here 
 telephone: 832.934.4493
-copyright: 2016 Riverstone Home Repair
+copyright: Riverstone Home Repair
 
 # API settings
 google_api_key: AIzaSyBZKJ_G_JcMYUrQ528aaDxHGmrK_E-Ayh8
