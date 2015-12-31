@@ -29,6 +29,11 @@ body {
     font-weight: 700;
 }
 
+.text-dark-bg-light {
+    color:#333;
+    background:rgba(255,255,255,0.7);
+}
+
 /* Custom Button Styles */
 
 .btn-dark {
